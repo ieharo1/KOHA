@@ -1,4 +1,4 @@
-﻿# Koha-Upacifico
+﻿# Koha
 
 Proyecto de configuracion y despliegue de Koha desarrollado por **Isaac Esteban Haro Torres**.
 
@@ -180,6 +180,7 @@ sudo mysqldump -u root -p koha_upacifico > /var/backups/koha_upacifico.sql
 ---
 
 Copyright 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
 
 
 
